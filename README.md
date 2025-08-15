@@ -17,5 +17,4 @@ Repo for CodeAI task
 
 `LassoRegression` : With average cross validation score = 0.60405   
 
-
-***Note that: **Colums like `instant`, `dteday`, `registered`, `casaul` were dropped during training, as they were giving unusual cross validation scoress and R2 scores** .***
+> **NOTE:** Colums like `instant`, `dteday`, `registered`, `casaul` were dropped during training, as they were giving unusual cross validation scoress and R2 scores
