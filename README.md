@@ -9,6 +9,10 @@ Repo for CodeAI task
 
 `regression_model`: this is the file in which regression model is trained and compared  
 
+`app.py`: this file contains the code for streamlit app, run `streamlit run app.py` in terminal.  
+
+`Copy of Collab Notebook`: this file contains the solution to Tech AI Task 1
+
 # Models Used  
 
 `LinearRegression` : R2 Score: 0.8565676064919518 (while predicting directly `cnt`)
