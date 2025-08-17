@@ -1,4 +1,10 @@
-# CodeAI_EDA-and-ML-task
+# CodeAI_EDA-and-ML-task  
+
+## UPDATE: Unusual R2 for added predictions fixed!!  
+***In the previous version, two seperate splits were used for `casual` predictions and `registered` predictions and when the total predictions was calculated it showed R2~1, to fix this issue, this time only one split was taken and based on that `alpha = 1.0` is kept for regularization, which resulted in R2 for added predictions to be 0.82297611687786.***
+
+
+
 Repo for CodeAI task  
 
 `dataset.csv`: this is the main dataset provided to us    
