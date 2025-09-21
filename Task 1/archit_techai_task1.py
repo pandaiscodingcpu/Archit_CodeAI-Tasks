@@ -15,7 +15,7 @@ class LengthError(Exception):
 class Game:
     # global variables chance and count
     def __init__(self):
-        self.chance = 10
+        self.chance = 6
         self.score = 0
 
     # function to check length of the word entered by the user
@@ -69,4 +69,5 @@ class Game:
 
 if __name__ == '__main__':
     g = Game()
+
     g.game()
