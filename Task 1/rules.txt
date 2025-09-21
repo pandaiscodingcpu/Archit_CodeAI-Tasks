@@ -3,8 +3,9 @@
     (A) The word is correctly guessed: ALL LETTERS GREEN
     (B) The letters are correct but wrongly placed LETTERS ARE YELLOW
     (C) None of the letters are correct LETTERS ARE GRAY
-3. You have 10 chances to guess the word
+3. You have 6 chances to guess the word
 4. You final score will be calculated as follows:
                 Final Score = (Number of chances taken) * 100
+
 
             ***** HAPPY PLAYING *****
